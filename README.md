@@ -1,5 +1,5 @@
-# KGP-Keyboard-Layout-for-Mac
-K P Rao/KGP/Nudi Keyboard layout for mac. <br />
+# K P Rao, KGP, Nudi, Kannada Keyboard Layout for Mac
+
 Supports only Unicode. Ascii keyboard is not supported. <br />
 
 ## Installation
