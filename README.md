@@ -6,4 +6,4 @@ Supports only Unicode. Ascii keyboard is not supported. <br />
 Refer to "[wiki](../../wiki)" of this project. <br />
 
 ## Issues
-If you find any issues, please create an [issue](../../issues). <br />
+If you find any issue with the keyboard layout, please create an [issue](../../issues). <br />
